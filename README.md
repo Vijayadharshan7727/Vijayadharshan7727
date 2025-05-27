@@ -11,7 +11,6 @@ Logical Problem Solving & Competitive Programming
 Open-source Contributions
 Python Scripting & Automation
 🌱 Currently Learning
-Advanced Java (Servlets, JDBC, OOP Design Patterns)
 MySQL & Database Management
 Web Development Best Practices
 Version Control using Git & GitHub
