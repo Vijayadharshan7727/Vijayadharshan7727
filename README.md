@@ -1,32 +1,116 @@
-👋 Hi there! I’m Vijayadharshan R (@Vijayadharshan)
+👋 Hi there! I'm Vijayadharshan R (@Vijayadharshan7727)
 
-🎓 I'm a Artificial Intelligence and Data Science undergraduate passionate about technology, innovation, and continuous learning.
-🚀 I enjoy building solutions that make life easier, whether through software development, automation, or collaboration.
+🎓 Artificial Intelligence & Data Science Undergraduate
+🚀 Passionate about building intelligent systems that solve real-world problems through Machine Learning, Data Science, and Software Development.
+💡 I love turning data into insights and ideas into impactful applications.
+
+🧠 About Me
+
+🔍 Strong interest in Machine Learning, Data Analysis & Backend Development
+
+🛠️ Enjoy building end-to-end projects — from data preprocessing to deployment
+
+🧩 Debugging feels like solving a logical mystery!
+
+🚀 Always curious about how systems work under the hood
 
 👀 Interests
-Java Development (Core & Advanced)
-Web Technologies (HTML, CSS, JavaScript)
-Backend Development with MySQL
-Logical Problem Solving & Competitive Programming
-Open-source Contributions
-Python Scripting & Automation
-🌱 Currently Learning
-MySQL & Database Management
-Web Development Best Practices
-Version Control using Git & GitHub
-💞️ Looking to Collaborate On
-Java or Python-based mini projects
-Beginner-friendly open-source repositories
-Student tech communities, hackathons, and learning groups
-📫 Contact Me
-📧 Email: dharshanvijay7727@gmail.com
-📱 Phone: +91 63842 27515
-💼 LinkedIn: linkedin.com/in/dharshanvijay7727
-💻 GitHub: @Vijayadharshan7727
-😄 Pronouns
-He/Him/Sir
 
-⚡ Fun Facts
-Debugging is my favorite part of coding – it's like solving a mystery with logic! 🧠🔍
-I enjoy thinking critically and solving puzzles, especially those involving algorithms and logic building
-Always curious to learn how things work under the hood
+🤖 Machine Learning & AI
+
+☕ Java Development (Core & Advanced)
+
+🌐 Web Technologies (HTML, CSS, JavaScript)
+
+🗄️ Backend Development with MySQL
+
+🧠 Logical Problem Solving & Competitive Programming
+
+🐍 Python Scripting & Automation
+
+🌍 Open-source Contributions
+
+🌱 Currently Learning
+
+Advanced Machine Learning Techniques
+
+MySQL & Database Optimization
+
+Web Development Best Practices
+
+Git & GitHub for Collaboration
+
+Model Deployment & Optimization
+
+🛠️ Technical Skills
+👨‍💻 Programming
+
+Python
+
+Java (Core & Advanced)
+
+📊 Data Science & Analysis
+
+NumPy
+
+Pandas
+
+Matplotlib
+
+Seaborn
+
+Excel
+
+Data Cleaning & Pre-processing
+
+🤖 Machine Learning
+
+Supervised Learning
+
+Regression
+
+Classification
+
+Unsupervised Learning
+
+Clustering
+
+Dimensionality Reduction
+
+Model Evaluation Metrics
+
+Cross-Validation
+
+Hyperparameter Tuning
+
+Feature Engineering
+
+⚙️ Tools & Platforms
+
+Jupyter Notebook
+
+Google Colab
+
+Git & GitHub
+
+🚀 Deployment
+
+Streamlit
+
+Flask
+
+Basic Web Deployment
+
+💡 Key Skills
+
+📈 Data Analysis & Visualization
+
+🤖 Machine Learning Model Development
+
+⚡ Model Optimization
+
+🧩 Feature Engineering
+
+🔁 Version Control (Git & GitHub)
+
+🧠 Problem Solving & Algorithmic Thinking
