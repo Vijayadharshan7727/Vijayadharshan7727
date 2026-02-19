@@ -37,12 +37,3 @@
 📊 GitHub Stats
 📬 Connect with Me
 <p align="left"> <a href="https://linkedin.com/in/dharshanvijay7727"> <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:dharshanvijay7727@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/Vijayadharshan7727"> <img src="https://img.shields.io/badge/GitHub-View%20Projects-000000?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
-
-
-👀 Profile View Counter
-
-🎨 Custom AI-themed banner
-
-🏆 Trophy section
-
-🌌 Dark Neon Hacker Style Version
