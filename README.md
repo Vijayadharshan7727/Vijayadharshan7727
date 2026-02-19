@@ -1,7 +1,8 @@
 👋 Hi, I'm Vijayadharshan R
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+%26+Data+Science+Student;Aspiring+AI+Engineer;Machine+Learning+%7C+Deep+Learning+Enthusiast;Python+%7C+Java+Developer;Building+Intelligent+Real+World+Solutions;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=1050&lines=Artificial+Intelligence+%26+Data+Science+Student;Aspiring+AI+Engineer;Turning+Ideas+into+AI+Systems;Python+%7C+Java+%7C+Machine+Learning;Engineering+Intelligent+Futures;Always+Learning+%F0%9F%9A%80" />
 </p>
+
 
 🚀 About Me
 
