@@ -3,7 +3,7 @@
 🚀 About Me
 
 🎓 AI & Data Science Undergraduate
-💡 Passionate about Machine Learning, Data Analysis & Backend Development
+💡 Passionate about Machine Learning, Data Analysis & frontend Development
 🧠 Love solving logical problems & optimizing ML models
 🚀 Turning data into intelligent, real-world solutions
 🛠️ Skills & Tools
@@ -29,7 +29,8 @@
 🏠 House Price Prediction (Random Forest)
 🛍️ Customer Segmentation (Clustering)
 🎬 Capstone: Movie Success Prediction (End-to-End ML Pipeline)
-📊 GitHub Stats
+
 
 📬 Connect with Me
+
 <p align="left"> <a href="https://linkedin.com/in/dharshanvijay7727"> <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:dharshanvijay7727@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/Vijayadharshan7727"> <img src="https://img.shields.io/badge/GitHub-View%20Projects-000000?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
